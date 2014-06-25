@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+S3method(print, fgp)
+S3method(print, marketmodel)
+S3method(print, capdist)
+S3method(print, toymkt)
+S3method(plot, capdist)
+S3method(plot, toymkt)
+import(zoo)
